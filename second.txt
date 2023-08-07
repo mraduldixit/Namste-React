@@ -1,0 +1,44 @@
+bundeler ->( make our code production ready) -> 
+
+do minify,
+hot module reloading
+cashing
+removing logs and comments
+bundeling
+cleaning
+making production ready
+image optimization 
+compression
+rewriting names to make it fast
+add polifills
+copatable with older version
+give functionality to give htttps servers
+manages port number and everything
+
+may bunder available -
+web pak
+parcel
+vite
+
+package.json >
+having all dependencies (superpowers) 
+dev dependency (for the dev enver only)
+
+packagelock.json -> always maintain which version we are using in production we can get to know by packagelock.json
+(working on local on production this error can come) ->it locks the version
+
+node module -> database of npm (all code of dependencies is here)
+all the dependencies and these dependencis also dependent on some other dependency so that is mentioned in nodemodule
+
+* you need not to upload node module on git you can get this node module / all dependencies by package lock.json *
+
+
+hot module reloding -> always keep track on file anything changes (filewatcher algo ) ->allthis parcer is dooing everything
+
+
+we should put parcel in git ignore ->
+why ->
+anything that can be generated can put on git ignore
+
+* parcel does-> treeshaking (removing unwanted code ), HMR, minification, file watcher, code spliting, cashing, image/vedio minification
+

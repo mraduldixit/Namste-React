@@ -1,0 +1,20 @@
+1.  react s a library or framework ->
+
+library (like a carosal) -> it takes minimum effort to add into your project
+
+
+
+2.  what is CDN ->
+
+contant delievery network . CDN stands for Content Delivery Network. It is a distributed network of servers strategically located
+ in various geographical locations to deliver web content, such as images, videos, scripts, and other static and dynamic assets, to users
+  more efficiently and quickly.
+
+  3.what is crossorigin ->
+
+  The crossorigin attribute is an HTML attribute that can be used with the <script> tag to specify how the browser
+   should handle loading and executing scripts from external domains or origins. It is primarily used to control how
+    the browser enforces cross-origin resource sharing (CORS) policies for script files.
+
+
+4. can we have multiple root->
